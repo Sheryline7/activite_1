@@ -6,7 +6,7 @@ int main()
     int age = 0;
     int choixPseudo = 0;
 
-printf("Quel age avez vous?\n");
+printf("Quel age as-tu?\n");
 scanf("%d", &age);
 printf("Super, maintenant je t'invite à choisir un pseudo de joueur parmis les suivants.\n1. Le Joker\n2. Thor\n3. Black Widow\n4. Sangoku Super Saiyan 3\n5. Nikita\n6. Katniss Everdeen\n Alors ton choix?");
 scanf("%d", &choixPseudo);
