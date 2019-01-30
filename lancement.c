@@ -3,7 +3,8 @@
 
 int main()
 {
-int age = 0, int choixPseudo = 0;
+    int age = 0;
+    int choixPseudo = 0;
 
 printf("Quel age avez vous?\n");
 scanf("%d", &age);
